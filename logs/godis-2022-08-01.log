@@ -1,0 +1,72 @@
+[INFO][server.go:38] 2022/08/01 10:02:21 start listen..
+[INFO][server.go:73] 2022/08/01 10:06:35 accept link...
+[INFO][handler.go:63] 2022/08/01 10:13:23 connection close: 127.0.0.1:10533
+[INFO][server.go:53] 2022/08/01 10:15:14 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:15:14 handler shutting down
+[INFO][server.go:38] 2022/08/01 10:16:45 start listen..
+[INFO][server.go:73] 2022/08/01 10:16:49 accept link...
+[INFO][server.go:53] 2022/08/01 10:18:10 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:18:10 handler shutting down
+[INFO][handler.go:63] 2022/08/01 10:18:10 connection close: 127.0.0.1:10657
+[INFO][handler.go:107] 2022/08/01 10:18:10 handler shutting down
+[INFO][db.go:51] 2022/08/01 10:20:29 arity ={}, len(cmdArgs) = {}   3 3
+[INFO][server.go:38] 2022/08/01 10:20:29 start listen..
+[INFO][server.go:53] 2022/08/01 10:20:47 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:20:47 handler shutting down
+[INFO][db.go:51] 2022/08/01 10:21:11 arity ={}, len(cmdArgs) = {}   3 3
+[INFO][db.go:52] 2022/08/01 10:21:11 [[115 101 116] [107 101 121] [118 97 108 117 101]]
+[INFO][server.go:38] 2022/08/01 10:21:11 start listen..
+[INFO][server.go:53] 2022/08/01 10:22:44 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:22:44 handler shutting down
+[INFO][db.go:51] 2022/08/01 10:22:46 arity ={}, len(cmdArgs) = {}   3 3
+[INFO][db.go:52] 2022/08/01 10:22:46 set
+[INFO][server.go:38] 2022/08/01 10:22:46 start listen..
+[INFO][server.go:73] 2022/08/01 10:22:54 accept link...
+[INFO][server.go:53] 2022/08/01 10:23:09 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:23:09 handler shutting down
+[INFO][handler.go:63] 2022/08/01 10:23:09 connection close: 127.0.0.1:10828
+[INFO][handler.go:107] 2022/08/01 10:23:09 handler shutting down
+[INFO][db.go:51] 2022/08/01 10:23:11 arity ={}, len(cmdArgs) = {}   3 3
+[INFO][db.go:52] 2022/08/01 10:23:11 set
+[INFO][db.go:53] 2022/08/01 10:23:11 key
+[INFO][server.go:38] 2022/08/01 10:23:11 start listen..
+[INFO][server.go:73] 2022/08/01 10:23:11 accept link...
+[INFO][server.go:53] 2022/08/01 10:23:35 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:23:35 handler shutting down
+[INFO][handler.go:63] 2022/08/01 10:23:35 connection close: 127.0.0.1:10831
+[INFO][handler.go:107] 2022/08/01 10:23:35 handler shutting down
+[INFO][db.go:51] 2022/08/01 10:23:37 arity =%v, len(cmdArgs) = %v   3 3
+[INFO][db.go:52] 2022/08/01 10:23:37 set
+[INFO][db.go:53] 2022/08/01 10:23:37 key
+[INFO][server.go:38] 2022/08/01 10:23:37 start listen..
+[INFO][server.go:53] 2022/08/01 10:24:27 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:24:27 handler shutting down
+[INFO][server.go:38] 2022/08/01 10:25:24 start listen..
+[INFO][server.go:73] 2022/08/01 10:25:27 accept link...
+[INFO][server.go:53] 2022/08/01 10:25:54 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:25:54 handler shutting down
+[INFO][handler.go:63] 2022/08/01 10:25:54 connection close: 127.0.0.1:10866
+[INFO][handler.go:107] 2022/08/01 10:25:54 handler shutting down
+[INFO][server.go:38] 2022/08/01 10:25:56 start listen..
+[INFO][server.go:73] 2022/08/01 10:26:17 accept link...
+[INFO][server.go:53] 2022/08/01 10:26:30 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:26:30 handler shutting down
+[INFO][handler.go:63] 2022/08/01 10:26:30 connection close: 127.0.0.1:10877
+[INFO][handler.go:107] 2022/08/01 10:26:30 handler shutting down
+[INFO][server.go:38] 2022/08/01 10:31:24 start listen..
+[INFO][server.go:73] 2022/08/01 10:31:26 accept link...
+[INFO][server.go:53] 2022/08/01 10:31:35 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:31:35 handler shutting down
+[INFO][handler.go:63] 2022/08/01 10:31:35 connection close: 127.0.0.1:10922
+[INFO][handler.go:107] 2022/08/01 10:31:35 handler shutting down
+[INFO][server.go:38] 2022/08/01 10:31:56 start listen..
+[INFO][server.go:73] 2022/08/01 10:32:03 accept link...
+[INFO][handler.go:63] 2022/08/01 10:32:25 connection close: 127.0.0.1:10935
+[INFO][server.go:53] 2022/08/01 10:32:27 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:32:27 handler shutting down
+[INFO][server.go:38] 2022/08/01 10:34:14 start listen..
+[INFO][server.go:73] 2022/08/01 10:34:17 accept link...
+[INFO][server.go:53] 2022/08/01 10:35:06 shutting down...
+[INFO][handler.go:107] 2022/08/01 10:35:06 handler shutting down
+[INFO][handler.go:63] 2022/08/01 10:35:06 connection close: 127.0.0.1:10966
+[INFO][handler.go:107] 2022/08/01 10:35:06 handler shutting down

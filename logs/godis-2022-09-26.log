@@ -1,0 +1,222 @@
+[INFO][server.go:38] 2022/09/26 20:40:34 start listen..
+[INFO][server.go:53] 2022/09/26 20:40:45 shutting down...
+[INFO][handler.go:117] 2022/09/26 20:40:45 handler shutting down
+[INFO][server.go:38] 2022/09/26 20:43:10 start listen..
+[INFO][server.go:73] 2022/09/26 20:43:11 accept link...
+[ERROR][handler.go:95] 2022/09/26 21:08:47 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:08:48 require multi bulk reply
+[INFO][server.go:53] 2022/09/26 21:09:36 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:09:36 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:09:36 connection close: 127.0.0.1:12108
+[INFO][handler.go:117] 2022/09/26 21:09:36 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:09:59 start listen..
+[INFO][server.go:73] 2022/09/26 21:10:02 accept link...
+[ERROR][handler.go:95] 2022/09/26 21:11:03 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:11:03 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:11:03 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:11:16 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:11:16 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:11:16 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:11:40 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:11:43 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:12:24 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:13:20 require multi bulk reply
+[INFO][server.go:53] 2022/09/26 21:14:45 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:14:45 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:14:45 connection close: 127.0.0.1:13154
+[INFO][handler.go:117] 2022/09/26 21:14:45 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:14:47 start listen..
+[INFO][server.go:73] 2022/09/26 21:14:48 accept link...
+[ERROR][handler.go:95] 2022/09/26 21:14:48 require multi bulk reply
+[INFO][server.go:53] 2022/09/26 21:15:18 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:15:18 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:15:18 connection close: 127.0.0.1:13468
+[INFO][handler.go:117] 2022/09/26 21:15:18 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:15:20 start listen..
+[INFO][server.go:73] 2022/09/26 21:15:20 accept link...
+[ERROR][handler.go:95] 2022/09/26 21:15:23 require multi bulk reply
+[INFO][server.go:53] 2022/09/26 21:20:25 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:20:25 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:20:25 connection close: 127.0.0.1:13474
+[INFO][handler.go:117] 2022/09/26 21:20:25 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:20:27 start listen..
+[INFO][server.go:73] 2022/09/26 21:20:27 accept link...
+[ERROR][handler.go:95] 2022/09/26 21:20:29 require multi bulk reply
+[INFO][server.go:53] 2022/09/26 21:23:55 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:23:55 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:23:55 connection close: 127.0.0.1:13572
+[INFO][handler.go:117] 2022/09/26 21:23:55 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:23:57 start listen..
+[INFO][server.go:73] 2022/09/26 21:23:59 accept link...
+[ERROR][handler.go:95] 2022/09/26 21:24:08 require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:24:26 require multi bulk reply
+[INFO][server.go:53] 2022/09/26 21:24:35 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:24:35 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:24:35 connection close: 127.0.0.1:13646
+[INFO][handler.go:117] 2022/09/26 21:24:35 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:24:37 start listen..
+[INFO][server.go:73] 2022/09/26 21:24:37 accept link...
+[ERROR][handler.go:95] 2022/09/26 21:24:39 ===require multi bulk reply
+[ERROR][handler.go:95] 2022/09/26 21:24:54 ===require multi bulk reply
+[INFO][server.go:53] 2022/09/26 21:24:56 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:24:56 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:24:56 connection close: 127.0.0.1:13667
+[INFO][handler.go:117] 2022/09/26 21:24:56 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:24:59 start listen..
+[INFO][server.go:73] 2022/09/26 21:25:01 accept link...
+[ERROR][handler.go:95] 2022/09/26 21:25:02 ===require multi bulk reply
+[INFO][handler.go:98] 2022/09/26 21:25:18 reply : %v &{[[71 69 84] [107 101 121]]}
+[INFO][server.go:53] 2022/09/26 21:25:39 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:25:39 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:25:39 connection close: 127.0.0.1:13678
+[INFO][handler.go:117] 2022/09/26 21:25:39 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:25:42 start listen..
+[INFO][server.go:73] 2022/09/26 21:25:43 accept link...
+[INFO][handler.go:98] 2022/09/26 21:25:44 reply : %v {[[71 69 84] [107 101 121]]}
+[INFO][handler.go:98] 2022/09/26 21:25:49 reply : %v {[[71 69 84] [107 101 121]]}
+[INFO][server.go:53] 2022/09/26 21:26:09 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:26:09 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:26:09 connection close: 127.0.0.1:13691
+[INFO][handler.go:117] 2022/09/26 21:26:09 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:26:12 start listen..
+[INFO][server.go:73] 2022/09/26 21:26:12 accept link...
+[INFO][reply.go:40] 2022/09/26 21:26:13 ===%v 2
+[INFO][handler.go:98] 2022/09/26 21:26:13 reply : %v [42 50 13 10 36 51 13 10 71 69 84 13 10 36 51 13 10 107 101 121 13 10]
+[INFO][server.go:53] 2022/09/26 21:26:47 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:26:47 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:26:47 connection close: 127.0.0.1:13696
+[INFO][handler.go:117] 2022/09/26 21:26:47 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:26:49 start listen..
+[INFO][server.go:73] 2022/09/26 21:26:50 accept link...
+[INFO][handler.go:98] 2022/09/26 21:26:50 reply : %v [42 50 13 10 36 51 13 10 71 69 84 13 10 36 51 13 10 107 101 121 13 10]
+[INFO][server.go:53] 2022/09/26 21:27:12 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:27:12 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:27:12 connection close: 127.0.0.1:13720
+[INFO][handler.go:117] 2022/09/26 21:27:12 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:27:14 start listen..
+[INFO][server.go:73] 2022/09/26 21:27:14 accept link...
+[INFO][handler.go:98] 2022/09/26 21:27:17 reply : %v [[71 69 84] [107 101 121]]
+[INFO][handler.go:98] 2022/09/26 21:28:07 reply : %v [[80 73 78 71]]
+[INFO][handler.go:98] 2022/09/26 21:28:11 reply : %v [[80 73 78 71]]
+[INFO][server.go:53] 2022/09/26 21:30:07 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:30:07 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:30:07 connection close: 127.0.0.1:13729
+[INFO][handler.go:117] 2022/09/26 21:30:07 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:35:08 start listen..
+[INFO][server.go:73] 2022/09/26 21:35:13 accept link...
+[INFO][handler.go:98] 2022/09/26 21:35:30 reply : %v [[80 73 78 71]]
+[INFO][handler.go:98] 2022/09/26 21:35:54 reply : %v [[83 69 84] [107 101 121] [118 97 108 117 101]]
+[INFO][handler.go:98] 2022/09/26 21:36:01 reply : %v [[83 69 84] [107 101 121] [118 97 49 49 49]]
+[INFO][handler.go:98] 2022/09/26 21:36:05 reply : %v [[83 69 84] [107 101 121] [118 97 50 50 50]]
+[INFO][handler.go:98] 2022/09/26 21:36:06 reply : %v [[83 69 84] [107 101 121] [118 97 50 50 50]]
+[INFO][handler.go:98] 2022/09/26 21:36:17 reply : %v [[71 69 84] [107 101 121]]
+[INFO][handler.go:98] 2022/09/26 21:36:23 reply : %v [[71 69 84] [107 101 121]]
+[INFO][handler.go:98] 2022/09/26 21:36:29 reply : %v [[115 101 108 101 99 116] [49]]
+[INFO][handler.go:98] 2022/09/26 21:36:35 reply : %v [[71 69 84] [107 101 121]]
+[INFO][server.go:53] 2022/09/26 21:36:39 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:36:39 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:36:39 connection close: 127.0.0.1:4468
+[INFO][handler.go:117] 2022/09/26 21:36:39 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:37:22 start listen..
+[INFO][server.go:73] 2022/09/26 21:37:26 accept link...
+[INFO][server.go:53] 2022/09/26 21:37:31 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:37:31 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:37:31 connection close: 127.0.0.1:4523
+[INFO][handler.go:117] 2022/09/26 21:37:31 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:38:01 start listen..
+[INFO][server.go:73] 2022/09/26 21:38:10 accept link...
+[INFO][server.go:53] 2022/09/26 21:39:29 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:39:29 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:39:29 connection close: 127.0.0.1:4541
+[INFO][handler.go:117] 2022/09/26 21:39:29 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:39:49 start listen..
+[INFO][server.go:38] 2022/09/26 21:40:14 start listen..
+[INFO][server.go:73] 2022/09/26 21:40:16 accept link...
+[INFO][server.go:53] 2022/09/26 21:40:27 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:40:27 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:40:27 connection close: 127.0.0.1:4610
+[INFO][handler.go:117] 2022/09/26 21:40:27 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:40:29 start listen..
+[ERROR][main.go:55] 2022/09/26 21:40:35 listen tcp 0.0.0.0:6399: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[ERROR][main.go:55] 2022/09/26 21:40:50 listen tcp 0.0.0.0:6399: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[INFO][server.go:53] 2022/09/26 21:41:09 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:41:09 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:41:11 start listen..
+[ERROR][main.go:55] 2022/09/26 21:41:14 listen tcp 0.0.0.0:6399: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+[INFO][server.go:38] 2022/09/26 21:41:51 start listen..
+[INFO][server.go:73] 2022/09/26 21:42:03 accept link...
+[INFO][handler.go:73] 2022/09/26 21:42:10 connection close: 127.0.0.1:4665
+[INFO][server.go:73] 2022/09/26 21:42:18 accept link...
+[INFO][handler.go:82] 2022/09/26 21:50:02 connection close: 127.0.0.1:4671
+[INFO][server.go:53] 2022/09/26 21:51:09 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:51:09 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:55:14 start listen..
+[INFO][server.go:73] 2022/09/26 21:55:31 accept link...
+[INFO][server.go:53] 2022/09/26 21:56:29 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:56:29 handler shutting down
+[INFO][handler.go:73] 2022/09/26 21:56:29 connection close: 127.0.0.1:4952
+[INFO][handler.go:117] 2022/09/26 21:56:29 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:56:43 start listen..
+[INFO][server.go:73] 2022/09/26 21:56:46 accept link...
+[INFO][handler.go:73] 2022/09/26 21:57:07 connection close: 127.0.0.1:4983
+[INFO][server.go:53] 2022/09/26 21:57:08 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:57:08 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:57:22 start listen..
+[INFO][server.go:73] 2022/09/26 21:57:32 accept link...
+[INFO][handler.go:73] 2022/09/26 21:57:48 connection close: 127.0.0.1:5000
+[INFO][server.go:53] 2022/09/26 21:58:11 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:58:11 handler shutting down
+[INFO][server.go:38] 2022/09/26 21:58:16 start listen..
+[INFO][server.go:73] 2022/09/26 21:58:23 accept link...
+[INFO][handler.go:73] 2022/09/26 21:58:29 connection close: 127.0.0.1:5031
+[INFO][server.go:53] 2022/09/26 21:59:21 shutting down...
+[INFO][handler.go:117] 2022/09/26 21:59:21 handler shutting down
+[INFO][server.go:38] 2022/09/26 22:10:48 start listen..
+[INFO][server.go:73] 2022/09/26 22:10:53 accept link...
+[INFO][server.go:53] 2022/09/26 22:11:36 shutting down...
+[INFO][handler.go:117] 2022/09/26 22:11:36 handler shutting down
+[INFO][handler.go:73] 2022/09/26 22:11:36 connection close: 127.0.0.1:5342
+[INFO][handler.go:117] 2022/09/26 22:11:36 handler shutting down
+[INFO][server.go:38] 2022/09/26 22:12:43 start listen..
+[INFO][server.go:73] 2022/09/26 22:12:47 accept link...
+[INFO][server.go:53] 2022/09/26 22:13:36 shutting down...
+[INFO][handler.go:117] 2022/09/26 22:13:36 handler shutting down
+[INFO][handler.go:73] 2022/09/26 22:13:36 connection close: 127.0.0.1:5393
+[INFO][handler.go:117] 2022/09/26 22:13:36 handler shutting down
+[INFO][server.go:38] 2022/09/26 22:13:50 start listen..
+[INFO][server.go:73] 2022/09/26 22:13:53 accept link...
+[INFO][handler.go:73] 2022/09/26 22:14:28 connection close: 127.0.0.1:5416
+[INFO][server.go:53] 2022/09/26 22:14:29 shutting down...
+[INFO][handler.go:117] 2022/09/26 22:14:29 handler shutting down
+[INFO][server.go:38] 2022/09/26 22:15:07 start listen..
+[INFO][server.go:73] 2022/09/26 22:15:13 accept link...
+[INFO][handler.go:73] 2022/09/26 22:15:41 connection close: 127.0.0.1:5453
+[INFO][server.go:53] 2022/09/26 22:23:58 shutting down...
+[INFO][handler.go:117] 2022/09/26 22:23:58 handler shutting down
+[INFO][server.go:38] 2022/09/26 22:24:18 start listen..
+[INFO][server.go:73] 2022/09/26 22:24:42 accept link...
+[INFO][server.go:73] 2022/09/26 22:24:57 accept link...
+[INFO][handler.go:73] 2022/09/26 22:25:18 connection close: 127.0.0.1:5659
+[INFO][server.go:53] 2022/09/26 22:25:20 shutting down...
+[INFO][handler.go:117] 2022/09/26 22:25:20 handler shutting down
+[INFO][handler.go:73] 2022/09/26 22:25:20 connection close: 127.0.0.1:5652
+[INFO][handler.go:117] 2022/09/26 22:25:20 handler shutting down
+[INFO][server.go:38] 2022/09/26 22:27:24 start listen..
+[INFO][server.go:73] 2022/09/26 22:27:38 accept link...
+[INFO][handler.go:73] 2022/09/26 22:28:09 connection close: 127.0.0.1:5707
+[INFO][server.go:53] 2022/09/26 22:28:54 shutting down...
+[INFO][handler.go:117] 2022/09/26 22:28:54 handler shutting down
+[INFO][server.go:38] 2022/09/26 22:30:21 start listen..
+[INFO][server.go:73] 2022/09/26 22:30:34 accept link...
+[INFO][handler.go:73] 2022/09/26 22:31:02 connection close: 127.0.0.1:5789
+[INFO][server.go:73] 2022/09/26 22:31:39 accept link...
+[INFO][handler.go:73] 2022/09/26 22:31:59 connection close: 127.0.0.1:5801
+[INFO][server.go:53] 2022/09/26 22:34:18 shutting down...
+[INFO][handler.go:117] 2022/09/26 22:34:18 handler shutting down
+[INFO][server.go:38] 2022/09/26 22:34:21 start listen..
+[INFO][server.go:73] 2022/09/26 22:35:00 accept link...
+[INFO][handler.go:73] 2022/09/26 22:35:17 connection close: 127.0.0.1:5880
+[INFO][server.go:73] 2022/09/26 22:35:40 accept link...
+[INFO][handler.go:73] 2022/09/26 22:35:44 connection close: 127.0.0.1:5897
+[INFO][server.go:53] 2022/09/26 22:37:06 shutting down...
+[INFO][handler.go:117] 2022/09/26 22:37:06 handler shutting down
